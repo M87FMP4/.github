@@ -8,9 +8,7 @@ Personal Page: https://github.com/FakerNull0
 ---
 # Projects
 - Sonic.exe: The Disaster 2D Remake
-  - [DisasterServer (Fork)](https://github.com/FakerNull0/DisasterServer)
-  - [DisasterLauncher (Fork)](https://github.com/M87FMP4/DisasterLauncher)
-  - [DisasterServer - Fixed](https://github.com/M87FMP4/betterserver-oss)
+  - [Discord RPC](https://github.com/M87FMP4/TD2DR-Discord-RPC)
   - [DisasterServer - v1101 (Old Source Code)](https://github.com/M87FMP4/betterserver-oss-old)
 
 # Discord
