@@ -1,7 +1,7 @@
 <h1 align="center">M87FMP4</h1>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=M87FMP4&show_icons=true&theme=dark" alt="M87FMP4 GitHub stats" />
+  <img src="https://gh-stats.com/api/M87FMP4" alt="M87FMP4 stats" />
 </p>
 
 ---
