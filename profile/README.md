@@ -1,9 +1,5 @@
 <h1 align="center">M87FMP4</h1>
 
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=M87FMP4&repo=TD2DR-Discord-RPC&theme=dark" />
-</p>
-
 ---
 
 ## About
