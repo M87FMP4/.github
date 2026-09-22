@@ -1,5 +1,6 @@
 <h1 align="center">M87FMP4</h1>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=M87FMP4&show_icons=true&theme=dark)
 ---
 
 ## About
@@ -15,7 +16,7 @@
 - [**TD2DR Discord RPC**](https://github.com/M87FMP4/TD2DR-Discord-RPC) — Rich Presence integration
 
 ### Discord
-- [**HypeSquad Badge**](https://github.com/M87FMP4/discord-hypesquad) — HypeSquad badge helper
+- [**HypeSquad Badge**](https://github.com/M87FMP4/discord-hypesquad) — HypeSquad badge 
 
 ---
 
